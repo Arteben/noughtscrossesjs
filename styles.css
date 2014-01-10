@@ -1,0 +1,53 @@
+
+BODY{
+	background-color: #EEE;
+	position: absolute;
+	font-family: Arial;
+	font-size: 14pt;
+	font-color: #000;
+    overflow: hidden;
+}
+
+#menuGames{
+	background-color: rgb(51, 51, 255);
+	width: 300px;
+	border: 5px double #FFF;
+	border-radius: 15px;
+}
+
+.inputTextMenuGames{
+    background-color: rgb(40, 40, 240);
+	margin: 20px 25px 0 25px;
+	width: 250px;
+    display: none;
+    color: #FFF;
+}
+
+.inputButtonMenuGames{
+	margin: 20px 25px;
+	width: 250px;
+}
+
+.barTableCenter{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.barTableLeft{
+	text-align: left;
+	vertical-align: middle;
+}
+
+.fieldLines{
+    stroke: #000;
+    stroke-width: 1; 
+}
+
+.checkedIcons {
+	margin: 20px 20px 0 20px;
+	width: 260px;
+	color: #000;
+    display: none;
+} 
+      
+
